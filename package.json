@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://inferal.github.com/portfolio",
+  "homepage": "https://inferal.github.io/portfolio/",
   "dependencies": {
     "bootstrap": "^3.3.7",
     "react": "^16.2.0",
